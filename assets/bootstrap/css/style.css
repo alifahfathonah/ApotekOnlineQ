@@ -1,0 +1,23 @@
+.carousel-item{
+}
+.carousel-item img{
+	width: 100%;
+	height: 639px;
+	background-size: cover;
+}
+.jumbotron-fluid{
+	height: 200px;
+	background-color: white;
+}
+.carousel-item::after{
+	content:'';
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-color: 
+}
+.body3{
+	margin-bottom: 0;
+	height: 300px;
+	background-color: #28a745;
+}
